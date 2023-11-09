@@ -21,9 +21,12 @@ Vragen en verzoeken met betrekking tot de *Koppeltaal-voorziening* mogen worden 
 <br><br/>
 
 ## Gestandaardiseerde werkstromen
-1. De afhandeling van wensen met betrekking tot verbetering van de _Koppeltaal-standaard_. Hiervoor wordt het doorontwikkeling Koppeltaal-standaard bord gebruikt. Zie: [Doorontwikkelworkflow](https://vzvz.atlassian.net/wiki/spaces/KTSA/pages/85655958/Doorontwikkeling+van+de+Koppeltaal-Standaard) voor de uitwerking van de processen.
+- De afhandeling van wensen met betrekking tot verbetering van de _Koppeltaal-standaard_. 
+  - Hiervoor wordt het [doorontwikkeling Koppeltaal-standaard](https://github.com/orgs/Koppeltaal/projects/7) bord gebruikt.
+  - Zie: [Doorontwikkelworkflow](https://vzvz.atlassian.net/wiki/spaces/KTSA/pages/85655958/Doorontwikkeling+van+de+Koppeltaal-Standaard) voor de uitwerking van de werkstroom.
 <br><br/>
 
 ## Nog niet gestandaardiseerde werkstromen
-1. Verzoeken waar nog geen gestandaardiseerde workflow zijn bedacht volgen wel een standaard proces. Hiervoor wordt het [algemene ondersteuning bij gebruik van de Koppeltaal-standaard](https://github.com/orgs/Koppeltaal/projects/6) bord gebruikt.
+- Verzoeken waar nog geen gestandaardiseerde workflow zijn bedacht volgen wel een standaard proces.
+  - Hiervoor wordt het [algemene ondersteuning bij gebruik van de Koppeltaal-standaard](https://github.com/orgs/Koppeltaal/projects/6) bord gebruikt.
 <br><br/>
