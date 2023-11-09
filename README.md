@@ -1,6 +1,6 @@
 # Koppeltaal-doorontwikkeling
 _Een plek waar we de doorontwikkeling van Koppeltaal als community stap voor stap kunnen overzien en er over kunnen praten._
-> **LET OP!!** - Er wordt nog gewerkt aan de inrichting van deze omgeving. De ingebruikname zal op korte termijn breed gecommuniceerd worden. Als je dat wil dan mag je al gebruikmaken van deze omgeving. 
+> **LET OP!!** - Er wordt nog gewerkt aan de inrichting van deze omgeving. De ingebruikname zal op korte termijn breed gecommuniceerd worden. Als je dat wil dan mag je al wel gebruikmaken van deze omgeving. 
 <br><br/>
 
 ## Waarin voorziet deze omgeving
