@@ -4,7 +4,7 @@ Een plek waar we de doorontwikkeling van Koppeltaal als community stap voor stap
 
 ## Waarin voorziet deze repository
 Deze repository bevat een eerste beginnetje van wat moet leiden tot een volwaardig ondersteuningsportaal voor de *Koppeltaal-standaard*.
-Via deze plek willen we graag dat je als lid van de Koppeltaal community nieuwe verzoeken in kunt dienen, bestaande kunt volgen, en reacties geven waar nodig.
+Via deze plek willen we graag dat je als lid van de Koppeltaal community nieuwe verzoeken in kunt dienen, bestaande kunt volgen, en reacties kunt geven waar nodig.
 
 Om dit te realiseren wordt gebruik gemaakt van discussions, issues, en projects. Om deel te nemen heb je een Github account nodig. Deze kun je eenvoudig zelf aanmaken via [https://github.com/join](https://github.com/join)
 
