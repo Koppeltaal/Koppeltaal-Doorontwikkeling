@@ -13,7 +13,7 @@ Issues met betrekking tot de *Koppeltaal-voorziening* mogen worden gemeld bij Ko
 <br><br/>
 
 ## Het melden van een verzoek of een discussie starten.
-[**Discussies**](https://github.com/Koppeltaal/Koppeltaal-doorontwikkeling/discussions) - wil je het graag hebben over een onderwerp zonder dat daar een conreet verzoek achterzit dan is dit de plek om een gesprek te starten of een vraag te stellen.
+[**Discussies**](https://github.com/Koppeltaal/Koppeltaal-doorontwikkeling/discussions) - wil je het graag hebben over een onderwerp zonder dat daar een conreet verzoek achter zit dan is dit de plek om een gesprek te starten of een vraag te stellen.
 
 [**Verzoeken**](https://github.com/Koppeltaal/Koppeltaal-doorontwikkeling/issues) - Heb je een concreet verzoek met betrekking tot de _Koppeltaal-standaard_, en wil je deze melden, dan mag je daar een issue voor aanmaken.
 
