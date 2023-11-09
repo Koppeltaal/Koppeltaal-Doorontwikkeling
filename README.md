@@ -13,7 +13,7 @@ Issues met betrekking tot de *Koppeltaal-voorziening* mogen worden gemeld bij Ko
 <br><br/>
 
 ## Het melden van een verzoek of een discussie starten.
-[**Discussies**](https://github.com/Koppeltaal/Koppeltaal-doorontwikkeling/discussions) - wil je het graag hebben over een onderwerp zonder dat daar een conreet verzoek achter zit dan is dit de plek om een gesprek te starten of een vraag te stellen.
+[**Discussies**](https://github.com/Koppeltaal/Koppeltaal-doorontwikkeling/discussions) - wil je het graag hebben over een onderwerp zonder dat daar een concreet verzoek achter zit dan is dit de plek om een gesprek te starten of een vraag te stellen.
 
 [**Verzoeken**](https://github.com/Koppeltaal/Koppeltaal-doorontwikkeling/issues) - Heb je een concreet verzoek met betrekking tot de _Koppeltaal-standaard_, en wil je deze melden, dan mag je daar een issue voor aanmaken.
 
@@ -23,7 +23,7 @@ Issues met betrekking tot de *Koppeltaal-voorziening* mogen worden gemeld bij Ko
 <br><br/>
 
 ## Hoe zit dat met die werkstromen en processen?
-Nadat een verzoek gemeld is wordt deze beoordeeld met behulp van een beslisboom. Na het doorlopen van de beslisboom wordt een verzoek ingevoerd in het juiste proces waarna deze afgehandeld wordt via de juiste workflow.
+Nadat een verzoek ingediend is wordt deze beoordeeld met behulp van een beslisboom. Na het doorlopen van de beslisboom wordt het verzoek ingevoerd in het juiste proces waarna deze afgehandeld wordt via de juiste workflow.
 - Laat zien hoe dit in de praktijk werkt
 
 <br><br/>
