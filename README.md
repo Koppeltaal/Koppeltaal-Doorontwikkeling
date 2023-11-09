@@ -1,14 +1,15 @@
 # Koppeltaal-doorontwikkeling
-Een plek waar we de doorontwikkeling van Koppeltaal als community stap voor stap kunnen overzien en er over kunnen praten.
+_Een plek waar we de doorontwikkeling van Koppeltaal als community stap voor stap kunnen overzien en er over kunnen praten._
+> **LET OP!!** - Er wordt nog gewerkt aan de inrichting van deze omgeving. De ingebruikname zal op korte termijn breed gecommuniceerd worden. Als je dat wil dan mag je al gebruikmaken van deze omgeving. 
 <br><br/>
 
-## Waarin voorziet deze repository
-Deze repository bevat een eerste beginnetje van wat moet leiden tot een volwaardig ondersteuningsportaal voor de *Koppeltaal-standaard*.
+## Waarin voorziet deze omgeving
+Deze Github repository bevat een eerste beginnetje van wat moet leiden tot een volwaardig ondersteuningsportaal voor de *Koppeltaal-standaard*.
 Via deze plek willen we graag dat je als lid van de Koppeltaal community nieuwe verzoeken in kunt dienen, bestaande kunt volgen, en reacties kunt geven waar nodig.
 
 Om dit te realiseren wordt gebruik gemaakt van discussions, issues, en projects. Om deel te nemen heb je een Github account nodig. Deze kun je eenvoudig zelf aanmaken via [https://github.com/join](https://github.com/join)
 
-## Waarin voorziet deze repository NIET
+## Waarin voorziet deze omgeving NIET
 Vragen en verzoeken met betrekking tot de *Koppeltaal-voorziening* mogen worden gemeld bij Koppeltaal support.
 <br><br/>
 
