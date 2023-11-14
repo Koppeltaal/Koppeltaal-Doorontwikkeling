@@ -1,5 +1,5 @@
 ---
-name: Publicatie verzoek
+name: 3. Publicatie verzoek
 about: Een verzoek voor een nieuwe publicatie van de Koppeltaal-standaard
 title: ''
 labels: Publicatie verzoek

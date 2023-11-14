@@ -1,10 +1,10 @@
 ---
-name: Wijzigingsverzoek
+name: 2. Wijzigingsverzoek
 about: Een gespecificeerd verzoek om aanpassingen door te voeren in de Koppeltaal-standaard
   die binnen de kaders van reeds genomen architectuurbesluiten vallen..
 title: ''
-labels: ''
-assignees: ''
+labels: Wijzigingsverzoek
+assignees: MarcelSchrauwen
 
 ---
 
