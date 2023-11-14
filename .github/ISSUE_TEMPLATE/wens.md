@@ -1,7 +1,7 @@
 ---
 name: Wens
-about: Een verzoek om nieuwe functionaliteit waar afspraken over gemaakt moeten worden
-  binnen de community.
+about: Een verzoek om nieuwe functionaliteit of grote aanpassingen in bestaande waar
+  afspraken over gemaakt moeten worden binnen de community.
 title: ''
 labels: Wens
 assignees: MarcelSchrauwen
