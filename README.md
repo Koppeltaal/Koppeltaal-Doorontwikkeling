@@ -1,6 +1,12 @@
 # Koppeltaal-doorontwikkeling
 _Een plek waar we de doorontwikkeling van Koppeltaal als community stap voor stap kunnen overzien en er over kunnen praten._
-> **LET OP!!** - Er wordt nog gewerkt aan de inrichting van deze omgeving.
+> - Er wordt nog gewerkt aan de inrichting van deze omgeving.
+> - Als deze omgeving na een korte testperiode succesvol blijkt zal ik deze pagina en het doorontwikkelproces vertalen naar Engels. Deze omgeving wordt dan tweetalig aangeboden.
+> - Verzoeken die in het engels zijn ingediend, worden in het engels afgehandeld.
+<br><br/>
+> - Work is still underway to design and configure this environment
+> - If this environment proves successful after a short test period, I will translate this page and the related development process into English. This environment then will be provided in both Dutch and English.
+> - Requests submitted in English will be processed in English.
 <br><br/>
 
 ## Waarin voorziet deze omgeving
