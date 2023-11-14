@@ -30,4 +30,5 @@ Vragen en verzoeken met betrekking tot de *Koppeltaal-voorziening* mogen worden 
 ## Nog niet gestandaardiseerde werkstromen
 - Verzoeken waar nog geen gestandaardiseerde workflow zijn bedacht volgen wel een standaard proces.
   - Hiervoor wordt het [algemene ondersteuning bij gebruik van de Koppeltaal-standaard](https://github.com/orgs/Koppeltaal/projects/6) bord gebruikt.
+  - Je mag deze ook gebruiken voor vragen over deze repository.
 <br><br/>
