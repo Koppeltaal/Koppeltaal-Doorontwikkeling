@@ -2,10 +2,10 @@
 _Een plek waar we de doorontwikkeling van Koppeltaal als community stap voor stap kunnen overzien en er over kunnen praten._
 
 ## Waarin voorziet deze omgeving
-Deze Github repository bevat een eerste beginnetje van wat moet leiden tot een volwaardig ondersteuningsportaal voor de *Koppeltaal-standaard*.
+Dit portaal bevat een eerste beginnetje van wat kan leiden tot een volwaardig ondersteuningsportaal voor de *Koppeltaal-standaard*.
 Via deze plek willen we graag dat je als lid van de Koppeltaal community nieuwe verzoeken in kunt dienen, bestaande kunt volgen, en reacties kunt geven waar nodig.
 
-Om dit te realiseren wordt gebruik gemaakt van discussions, issues, en projects. Om deel te nemen heb je een Github account nodig. Deze kun je eenvoudig zelf aanmaken via [https://github.com/join](https://github.com/join)
+Om actief deel te nemen heb je een Github account nodig. Deze kun je eenvoudig zelf aanmaken via [https://github.com/join](https://github.com/join). Zonder account heb je overigens wel leestoegang tot alle onderwerpen.
 
 ## Waarin voorziet deze omgeving NIET
 Vragen en verzoeken met betrekking tot de *Koppeltaal-voorziening* mogen worden gemeld bij Koppeltaal support.
