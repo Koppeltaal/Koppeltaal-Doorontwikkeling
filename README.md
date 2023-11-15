@@ -15,11 +15,13 @@ Vragen en verzoeken met betrekking tot de *Koppeltaal-voorziening* mogen worden 
 [**Discussies**](https://github.com/Koppeltaal/Koppeltaal-doorontwikkeling/discussions) - wil je het graag hebben over een onderwerp zonder dat daar een concreet verzoek achter zit dan is dit de plek om een gesprek te starten of een vraag te stellen.
 
 [**Verzoeken**](https://github.com/Koppeltaal/Koppeltaal-doorontwikkeling/issues) - Heb je een concreet verzoek met betrekking op de _Koppeltaal-standaard_, en wil je deze melden, dan mag je daar een issue voor aanmaken.
+<br><br/>
 
 ## Op de hoogte blijven
-Via de onderstaande borden kan de voortgang van verzoeken gevolgd worden.
-[**doorontwikkeling Koppeltaal-standaard**](https://github.com/orgs/Koppeltaal/projects/7) - Voor het volgen van de voortgang van wensen met betrekking tot verbetering van de _Koppeltaal-standaard_.
-[**algemene ondersteuning bij gebruik van de Koppeltaal-standaard**](https://github.com/orgs/Koppeltaal/projects/6) - Voor het volgen van algemene verzoeken met betrekking tot de _Koppeltaal-standaard_.
+[**Doorontwikkeling Koppeltaal-standaard**](https://github.com/orgs/Koppeltaal/projects/7) - Een kanban bord om de voortgang van wensen met betrekking tot verbetering van de _Koppeltaal-standaard_ te kunnen zien en volgen.
+
+[**Algemene ondersteuning bij gebruik van de Koppeltaal-standaard**](https://github.com/orgs/Koppeltaal/projects/6) - Een kanban bord om algemene verzoeken met betrekking tot de _Koppeltaal-standaard_ te kunnen zien en volgen.
+<br><br/>
 <br><br/>
 
 ###### About this environment
