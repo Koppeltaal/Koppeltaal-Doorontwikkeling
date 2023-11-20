@@ -1,0 +1,6 @@
+# Doorontwikkeling van de Koppeltaal-standaard
+De Koppeltaal-standaard bevat technische specificaties - gebaseerd op use cases uit de community - die voorziening-, en applicatieleveranciers in staat stelt om Koppeltaal functionaliteit in te bouwen in voorziening en applicaties. 
+
+De Koppeltaal standaard bestaat uit een combinatie van documentatie, een referentie-implementatie, en testscripts (zie figuur) De documentatie bestaat uit beschreven use cases, architectuur, standaard specificaties, en een developerguide. De referentie-implementatie bevat werkende code als voorbeeld voor developers.
+
+Alles wat we ontwerpen voor de standaard bouwen we ook zo snel mogelijk en toetsen we vervolgens in de referentie implementatie. Dit doen we om te voorkomen dat we eerst iets heel uitgebreid gaan documenteren wat later misschien niet blijkt te werken. We ontwerpen steeds net voldoende en net op tijd op papier om voldoende kaders en richting te geven aan de bouw. Een laatste belangrijk onderdeel van de standaard zijn de testscripts. Alles wat we bouwen en beschrijven moeten we kunnen toetsen en testen. Pas wanneer de driehoek van documentatie, referentie-implementatie, en testscipts overeenkomt geven we en versie van de standaard vrij voor oplevering.
