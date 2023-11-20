@@ -22,12 +22,13 @@ Vragen en verzoeken met betrekking tot de *Koppeltaal-voorziening* mogen worden 
 
 [**Algemene ondersteuning bij gebruik van de Koppeltaal-standaard**](https://github.com/orgs/Koppeltaal/projects/6) - Een kanban bord om algemene verzoeken met betrekking tot de _Koppeltaal-standaard_ te kunnen zien en volgen.
 <br><br/>
-<br><br/>
 
 ###### About this environment
 > Er wordt nog gewerkt aan de inrichting van deze omgeving. Als deze omgeving na een korte testperiode succesvol blijkt zal ik deze pagina en het doorontwikkelproces vertalen naar Engels. Deze omgeving wordt dan tweetalig aangeboden.Verzoeken die in het engels worden ingediend, worden in het engels afgehandeld.
 <br><br/>
 > Work is still underway to design and configure this environment. If this environment proves successful after a short test period, I will translate this page and the related development process into English. This environment then will be provided in both Dutch and English. Requests submitted in English will be processed in English.
+<br><br/>
 
-In ontwikkeling: [Doorontwikkeling Koppetaal-standaard](docs/NL/koppeltaal-doorontwikkeling.md) procesbeschrijving.
+###### In ontwikkeling: 
+> [Doorontwikkeling Koppetaal-standaard](docs/NL/Doorontwikkeling%20van%20de%20Koppeltaal-standaard.md) procesbeschrijving (NL).
 
