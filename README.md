@@ -28,7 +28,3 @@ Vragen en verzoeken met betrekking tot de *Koppeltaal-voorziening* mogen worden 
 <br><br/>
 > Work is still underway to design and configure this environment. If this environment proves successful after a short test period, I will translate this page and the related development process into English. This environment then will be provided in both Dutch and English. Requests submitted in English will be processed in English.
 <br><br/>
-
-###### In ontwikkeling: 
-> [Doorontwikkeling Koppetaal-standaard](docs/NL/Doorontwikkeling%20van%20de%20Koppeltaal-standaard.md) procesbeschrijving (NL).
-
